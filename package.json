@@ -1,0 +1,16 @@
+{
+  "title": "Tabber Addon",
+  "name": "tabber",
+  "version": "0.0.1",
+  "description": "Get fine grained browser history for each tab",
+  "main": "index.js",
+  "author": "jamie hayes",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}

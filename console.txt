@@ -1,0 +1,1 @@
+-bash: firefox: command not found
